@@ -9,6 +9,10 @@ description: A virtual proof that I'm awesome
 # Your name to show in the footer
 author: Some Person
 
+# If you are building a GitHub project page then use these settings:
+url: "http://philoakley.github.io/beautiful-jekyll"
+baseurl: "/beautiful-jekyll"
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
@@ -16,7 +20,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://deanattali.com" 
 
 # --- Logo --- #
 
